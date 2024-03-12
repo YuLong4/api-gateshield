@@ -3,6 +3,15 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/api-gateshield.iml" filepath="$PROJECT_DIR$/.idea/api-gateshield.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api-gateshield-admin/api-gateshield-admin.iml" filepath="$PROJECT_DIR$/api-gateshield-admin/api-gateshield-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api-gateshield-assist/api-gateshield-assist.iml" filepath="$PROJECT_DIR$/api-gateshield-assist/api-gateshield-assist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api-gateshield-center/api-gateshield-center.iml" filepath="$PROJECT_DIR$/api-gateshield-center/api-gateshield-center.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api-gateshield-core/api-gateshield-core.iml" filepath="$PROJECT_DIR$/api-gateshield-core/api-gateshield-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api-gateshield-engine/api-gateshield-engine.iml" filepath="$PROJECT_DIR$/api-gateshield-engine/api-gateshield-engine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api-gateshield-sdk/api-gateshield-sdk.iml" filepath="$PROJECT_DIR$/api-gateshield-sdk/api-gateshield-sdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api-gateshield-test-provider/api-gateshield-test-provider.iml" filepath="$PROJECT_DIR$/api-gateshield-test-provider/api-gateshield-test-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api-gateshield-test-provider/api-gateshield-test-provider-interfaces/api-gateshield-test-provider-interfaces.iml" filepath="$PROJECT_DIR$/api-gateshield-test-provider/api-gateshield-test-provider-interfaces/api-gateshield-test-provider-interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api-gateshield-test-provider/api-gateshield-test-provider-rpc/api-gateshield-test-provider-rpc.iml" filepath="$PROJECT_DIR$/api-gateshield-test-provider/api-gateshield-test-provider-rpc/api-gateshield-test-provider-rpc.iml" />
     </modules>
   </component>
 </project>

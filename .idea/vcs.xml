@@ -2,5 +2,12 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/api-gateshield-admin" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/api-gateshield-assist" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/api-gateshield-center" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/api-gateshield-core" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/api-gateshield-engine" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/api-gateshield-sdk" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/api-gateshield-test-provider" vcs="Git" />
   </component>
 </project>
