@@ -33,3 +33,9 @@ sudo apt install nodejs npm
 ```
 
 6.上传代码到服务器 / 拉取github代码
+安装git
+
+使用npm暴露在公网运行
+```
+npx vite --host 0.0.0.0
+```
